@@ -5,7 +5,6 @@ import time
 import re
 from colorama import Fore
 from canvasapi import Canvas
-import urllib.request
 import csv
 import datetime
 
