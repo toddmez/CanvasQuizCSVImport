@@ -1,5 +1,5 @@
 # CanvasQuizCSVImport
-<iframe src="https://player.vimeo.com/video/532334035?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Canvas Quiz Generation"></iframe>
+Overview of process: https://vimeo.com/532334035
 
 This is a script I created with the help of canvasapi wrapper to create MC quizzes in Instructure Canvas. 
 Here is what you need: 
